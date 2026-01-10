@@ -13,6 +13,7 @@ navLinks.addEventListener("click", (e) => {
   navLinks.classList.remove("open");
   menuBtnIcon.setAttribute("class", "ri-menu-line");
 });
+//here i making changes
 
 const scrollRevealOption = {
   origin: "bottom",
@@ -83,3 +84,4 @@ ScrollReveal().reveal(".banner__content p", {
   ...scrollRevealOption,
   delay: 500,
 });
+
