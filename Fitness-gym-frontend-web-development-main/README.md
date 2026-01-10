@@ -23,8 +23,7 @@ A simple and modern **Fitness Point Frontend Website** built using **HTML, CSS, 
 ## 🚀 How to Run Locally
 1. Clone this repository:
     ```bash
-    git clone https://github.com/Chinnari10/fitness-point-frontend.git
-    cd fitness-point-frontend
+   https://github.com/lingalashilpa/Fitness-gym-frontend.git
     ```
 
 2. Open `index.html` in your browser:
@@ -37,7 +36,7 @@ A simple and modern **Fitness Point Frontend Website** built using **HTML, CSS, 
 ---
 
 ## ✍️ Author
-**Chinnari** — [GitHub](https://github.com/Chinnari10)
+**Shilpa** — [GitHub]https://github.com/lingalashilpa
 
 ---
 
